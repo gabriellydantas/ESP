@@ -7,3 +7,5 @@
  Caso o primeiro passo de intalação do esptool.py não funcione, é necessário fazer a instalação manualmente. Baixe os arquivos do [Esptool.py](https://github.com/espressif/esptool) e salve na pasta de arquivos do Python
  
 O arquivo do MicroPython a ser utilizado deve corresponder a versão do seu ESP 
+
+http://micropython.org/download#esp8266
